@@ -1,3 +1,4 @@
+{
 	"draw_white_space": "selection",
 	"font_face": "InputSans",
 	"font_size": 10,
@@ -7,3 +8,4 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"trim_trailing_white_space_on_save": true
+}
